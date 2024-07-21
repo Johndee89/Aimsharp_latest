@@ -1,0 +1,23 @@
+Azure Strike=362969- 
+Blessing of the Bronze=364342- 
+Deep Breath=357210,371807- ground
+Disintegrate=356995- 
+Dragonrage=375087- 
+Eternity Surge=382411,359073- 
+Fire Breath=382266,357208- gcd
+Firestorm=368847- ground
+Fury of the Aspects=390386- gcd
+Hover=358267- gcd
+Landslide=358385- ground
+Living Flame=361469- 
+Obsidian Scales=363916- 
+Oppressing Roar=372048- 
+Pyre=357211- 
+Quell=351338- gcd
+Renewing Blaze=374348- gcd
+Return=361227- 
+Shattering Star=370452- 
+Tail Swipe=368970- 
+Tip the Scales=370553- gcd
+Unravel=368432- 
+
