@@ -24,6 +24,7 @@ if '%errorlevel%' NEQ '0' (
 :gotAdmin
     set "PROCESS1_NAME=Battle.net*"
 	set "PROCESS2_NAME=Wow*"
+    set "PROCESS3_NAME=Vanguard*"
 
 	echo Checking for Battle.net...
 	tasklist /NH /FI "IMAGENAME eq %PROCESS1_NAME%" | find /I "Battle.net" >nul
@@ -42,6 +43,14 @@ if '%errorlevel%' NEQ '0' (
 		echo Found World of Warcraft. Terminating process...
 		for /f "tokens=2" %%i in ('tasklist /NH /FI "IMAGENAME eq %PROCESS2_NAME%"') do taskkill /F /IM "%%i" /T
 	)
+    echo Checking for Vanguard...
+    tasklist /NH /FI "IMAGENAME eq %PROCESS3_NAME%" | find /I "Vanguard" >nul
+    if errorlevel 1 (
+        echo Vanguard is not running.
+    ) else (
+        echo Found Vanguard. Terminating process...
+        for /f "tokens=2" %%i in ('tasklist /NH /FI "IMAGENAME eq %PROCESS3_NAME%"') do taskkill /F /IM "%%i" /T
+    )
     pushd "%CD%"
     CD /D "%~dp0"
     CD Bin
