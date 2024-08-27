@@ -1,0 +1,40 @@
+Anti-Magic Shell=48707- gcd
+Anti-Magic Zone=51052- player
+Apocalypse=275699- 
+Army of the Dead=42650- 
+Raise Abomination=288853- ground
+Asphyxiate=221562- 
+Blinding Sleet=207167- 
+Chains of Ice=45524- 
+Clawing Shadows=207311- 
+Control Undead=111673- 
+Dark Command=56222- gcd
+Dark Simulacrum=77606- gcd
+Dark Transformation=63560,325554,344955- 
+Death and Decay=43265,152280- player
+Death Coil=47541- 
+Death Grip=49576- 
+Death Pact=48743- gcd
+Death Strike=49998- 
+Death's Advance=48265- gcd
+Empower Rune Weapon=47568,392963,392962- gcd
+Epidemic=207317- 
+Festering Strike=85948- 
+Icebound Fortitude=48792- gcd
+Lichborne=49039- gcd
+Mind Freeze=47528- gcd
+Outbreak=77575- 
+Raise Dead=46585,46584- gcd
+Reanimation=210128- 
+Sacrificial Pact=327574- 
+Scourge Strike=55090- 
+Soul Reaper=343294- 
+Strangulate=47476- gcd
+Summon Gargoyle=207349,49206- 
+Unholy Assault=207289- 
+Unholy Blight=115989- 
+Vile Contagion=390279- 
+Horn of Winter=57330- 
+
+
+
