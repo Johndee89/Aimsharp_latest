@@ -1,11 +1,13 @@
 Aimed Shot=19434- 
 Arcane Shot=185358- 
+Aspect of the Chameleon=61648- gcd
 Aspect of the Cheetah=186257- gcd
 Aspect of the Turtle=186265- gcd
 Barbed Shot=217200- 
-Barrage=120360- 
+Barrage=120360,459796- 
 Bursting Shot=186387- 
 Binding Shot=109248- 
+Black Arrow=430703- 
 Chimaera Shot=342049- 
 Chimaeral Sting=356719- 
 Camouflage=199483- gcd

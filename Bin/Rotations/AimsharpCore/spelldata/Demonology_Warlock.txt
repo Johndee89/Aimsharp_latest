@@ -18,3 +18,4 @@ Soul Rip=410598-
 Summon Demonic Tyrant=265187- 
 Summon Felguard=30146,112870- 
 Summon Vilefiend=264119- 
+Summon Charhound=455476- 

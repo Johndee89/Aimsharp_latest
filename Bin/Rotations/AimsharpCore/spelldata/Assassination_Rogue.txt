@@ -44,3 +44,4 @@ Smoke Bomb=212182-
 Thistle Tea=381623- gcd
 Vanish=1856- gcd
 Wound Poison=8679- 
+Stealth=1784- 

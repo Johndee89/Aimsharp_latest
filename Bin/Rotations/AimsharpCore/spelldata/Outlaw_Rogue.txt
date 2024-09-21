@@ -23,3 +23,4 @@ Sinister Strike=193315,1752,279877,197834,341541-
 Smoke Bomb=212182- 
 Vanish=1856- gcd
 Kick=1766- gcd
+Stealth=1784- 
