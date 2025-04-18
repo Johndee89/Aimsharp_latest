@@ -1,7 +1,7 @@
 Blackout Kick=100784- 
 Bonedust Brew=386276,325216- player
 Celestial Conduit=443028- 
-Chi Burst=123986- 
+Chi Burst=123986,461404- 
 Chi Torpedo=115008- gcd
 Chi Wave=115098- 
 Crackling Jade Lightning=117952- 

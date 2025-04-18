@@ -6,6 +6,7 @@ Combustion=190319- gcd
 Dragon's Breath=31661- 
 Fire Blast=108853- gcd
 Fireball=133- 
+Frostfire Bolt=431044- 
 Flamestrike=2120- ground
 Frostbolt=116- 
 Invisibility=66- 

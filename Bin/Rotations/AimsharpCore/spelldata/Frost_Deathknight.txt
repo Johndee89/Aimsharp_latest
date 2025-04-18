@@ -1,5 +1,7 @@
 Anti-Magic Shell=48707- gcd
-Breath of Sindragosa=152279- gcd
+Anti-Magic Zone=51052- player
+Asphyxiate=221562- 
+Breath of Sindragosa=152279- 
 Chill Streak=305392- 
 Dark Transformation=63560,325554,344955- 
 Death and Decay=43265- player

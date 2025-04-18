@@ -1,3 +1,4 @@
+Abomination Limb=383269- 
 Anti-Magic Shell=48707- gcd
 Anti-Magic Zone=51052- player
 Apocalypse=275699- 
@@ -11,7 +12,8 @@ Control Undead=111673-
 Dark Command=56222- gcd
 Dark Simulacrum=77606- gcd
 Dark Transformation=63560,325554,344955- 
-Death and Decay=43265,152280- player
+Death and Decay=43265,324128- player
+Defile=152280- player
 Death Coil=47541- 
 Death Grip=49576- 
 Death Pact=48743- gcd
@@ -20,6 +22,7 @@ Death's Advance=48265- gcd
 Empower Rune Weapon=47568,392963,392962- gcd
 Epidemic=207317- 
 Festering Strike=85948,458123- 
+Festering Scythe=458128- 
 Icebound Fortitude=48792- gcd
 Lichborne=49039- gcd
 Mind Freeze=47528- gcd
@@ -33,9 +36,6 @@ Strangulate=47476- gcd
 Summon Gargoyle=207349,49206- 
 Unholy Assault=207289- 
 Unholy Blight=115989- 
-Vampiric Strike=433895- 
+Vampiric Strike=433895,433901- 
 Vile Contagion=390279- 
 Horn of Winter=57330- 
-
-
-

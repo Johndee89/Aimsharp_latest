@@ -1,4 +1,5 @@
-Provoke=207025,115546- 
+Admonishment=207025- 
+Provoke=115546- 
 Avert Harm=202162- 
 Black Ox Brew=115399- gcd
 Blackout Kick=100784,205523- 
@@ -40,3 +41,6 @@ Zen Meditation=115176- gcd
 Bonedust Brew=386276- player
 Touch of Death=322109- 
 Summon White Tiger Statue=388686- player
+Song of Chi-Ji=198898- 
+Summon Black Ox Statue=115315- ground
+Vivify=116670- player

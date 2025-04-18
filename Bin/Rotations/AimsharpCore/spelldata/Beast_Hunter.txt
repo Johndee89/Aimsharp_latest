@@ -1,4 +1,3 @@
-A Murder of Crows=131894- 
 Arcane Shot=185358- 
 Aspect of the Cheetah=186257- gcd
 Aspect of the Turtle=186265- gcd
@@ -6,7 +5,7 @@ Barbed Shot=217200-
 Barrage=120360- 
 Bestial Wrath=19574- 
 Binding Shot=109248- 
-Black Arrow=430703- 
+Black Arrow=430703,466930,466932- 
 Bloodshed=321530- 
 Bursting Shot=186387- 
 Call of the Wild=359844- 
